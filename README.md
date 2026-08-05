@@ -4,6 +4,7 @@
 
 - SQL-скрипт: [`db/schema.sql`](./db/schema.sql)
 - Описание связей и индексов: [`db/README.md`](./db/README.md)
+- Архитектура backend и API: [`backend/README.md`](./backend/README.md)
 
 Запуск:
 
